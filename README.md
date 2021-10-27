@@ -1,6 +1,6 @@
 # flutter_lifecycle
 
-A new Flutter application.
+An example project to explain the Flutter lifecycle topic. No design has been made.
 
 ## Getting Started
 
